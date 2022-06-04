@@ -1,4 +1,4 @@
-# Contribution Guidelines
+# ssContribution Guidelines
 
 Please note that this project is released with a
 [Contributor Code of Conduct](code-of-conduct.md). By participating in this
@@ -13,7 +13,6 @@ Ensure your pull request adheres to the following guidelines:
 - And don't forget to check this
 
 Thank you for your suggestions!
-
 
 ## Updating your PR
 
